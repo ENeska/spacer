@@ -1,4 +1,5 @@
-# spacer
+# spacer from course Hello Roman 
+This app uses NASA image API to fetch images and displat them after passing search query.
 
 ## Project setup
 ```
